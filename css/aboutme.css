@@ -1,0 +1,22 @@
+h3{
+    font-weight: bold;
+    font-style: italic;
+ 
+    text-decoration: 6px green underline dotted;
+}
+ul{
+    font-family: 'Times New Roman', Times, serif;
+}
+h4{
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+h5{
+    font-weight: bold;
+    font-size: large;
+    }
+    .hobby{
+        background-color: lightblue;
+        margin-right: 1640px;
+    }
+    
