@@ -5,7 +5,27 @@ h2{
             background-color: green;
                 } 
                 span {
-                    background-color: lightblue;
+                    background-color:green;
                     color:blue
                 }
-                
+                .slogan{
+                      font-weight: bold;
+                      font-size: large;
+                      font-style: italic;
+                  }  
+                  img{
+                      width: 200px;
+                  }
+                  body{
+                      background-color: lightblue;
+                    }
+                  .find{
+                      text-transform: capitalize;
+                      text-decoration: underline;
+                      text-shadow:1px 1px blue;
+                  }
+                  .contacts {
+                      background-color: white;
+                      margin-right: 1470px;
+                      font-weight: bold;
+                  }
