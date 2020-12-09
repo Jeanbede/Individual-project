@@ -32,7 +32,7 @@ nav :hover{
     background: green;
 
         }
-        .mine{
+        .mine {
 
 font-weight: bold;
 color: green;
@@ -42,6 +42,9 @@ color: green;
             font-style: italic;
         }
  
-   
+   .mine :hover{
+       background: blue;
+       
+   }
    
 
