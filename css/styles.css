@@ -44,7 +44,8 @@ color: green;
  
    .mine :hover{
        background: blue;
-       
+       margin-right: 750px;
+       margin-left: 750px;
    }
    
 
